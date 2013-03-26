@@ -1,0 +1,2 @@
+# About
+I'm currently taking Applied Operations Research and one of our homework assignments needed us to simulate the game of craps. Quickly throwing something together in Python seemed like the most practical solution. Right now it is just printing out values. 
