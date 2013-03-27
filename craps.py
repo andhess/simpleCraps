@@ -37,7 +37,7 @@ def crapsPartTwo( firstToss ):
         toss = rollDice()
         count += 1
 
-        # 
+        # win if roll matches initial toss
         if toss == winning:
             return win()
 
